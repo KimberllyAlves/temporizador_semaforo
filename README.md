@@ -67,5 +67,5 @@ Clone o repositório para o seu computador:
 
 Você pode testar o código usando o **Wokwi** integrado ao **VS Code** para simular o comportamento dos LEDs conectados aos GPIOs 11, 12 e 13.
 
-**Desenvolvido por [Kimebrlly Alves](https://github.com/KimberllyAlves) ❤️**
+**Desenvolvido por [Kimberlly Alves](https://github.com/KimberllyAlves) ❤️**
 
