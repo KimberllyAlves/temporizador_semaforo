@@ -41,11 +41,11 @@ int main() {
 
     // Inicializar os pinos dos leds
     gpio_init(LED_PIN_R);
-    gpio_set_dir(LED_PIN_R,true);
+    gpio_set_dir(LED_PIN_R,GPIO_OUT);
     gpio_init(LED_PIN_Y);
-    gpio_set_dir(LED_PIN_Y,true);
+    gpio_set_dir(LED_PIN_Y,GPIO_OUT);
     gpio_init(LED_PIN_G);
-    gpio_set_dir(LED_PIN_G,true);
+    gpio_set_dir(LED_PIN_G,GPIO_OUT);
 
     // Declaração de uma estrutura de temporizador de repetição.
     // Esta estrutura armazenará informações sobre o temporizador configurado.
