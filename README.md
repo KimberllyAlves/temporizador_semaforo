@@ -56,7 +56,7 @@ As extensões recomendadas são:
   
 ### 3. Clone o Repositório
 Clone o repositório para o seu computador:
-https://github.com/KimberllyAlves/contagem_matriz.git
+[https://github.com/KimberllyAlves/contagem_matriz.git](https://github.com/KimberllyAlves/temporizador_semaforo.git)
 
 ### 4. Teste no Hardware Real
 - Conecte a placa ao computador no modo BOTSEEL
